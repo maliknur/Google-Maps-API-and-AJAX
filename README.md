@@ -5,7 +5,7 @@
 
 
 ##Technology Used
-- jQuery
+- jQuery, AJAX
 - PHP
 - Framework CodeIgniter
 - Google Maps API
